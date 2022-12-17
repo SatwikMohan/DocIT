@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434817206866",
+    "project_id": "docit-242a4",
+    "storage_bucket": "docit-242a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434817206866:android:388f9e04c2c73ee037ed8b",
+        "android_client_info": {
+          "package_name": "com.example.docit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434817206866-s3otsvk3abo7ij9q7q5o68cvmtf1uv7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbZho86pqgJM4S5eCbzad48OQmDb9bk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434817206866-s3otsvk3abo7ij9q7q5o68cvmtf1uv7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
